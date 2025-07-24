@@ -1,0 +1,5 @@
+terraform/
+ansible/
+k8s/
+jenkis/
+docker/
